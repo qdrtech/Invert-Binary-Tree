@@ -1,0 +1,9 @@
+{
+  "name": "invert_binary_tree",
+  "version": "1.0.0",
+  "description": "Invert Binary Tree",
+  "main": "index.js",
+  "keywords": ["javascript, binary tree, invert, JS"],
+  "author": "qdr_tech <quenton@qdrtech.com>",
+  "license": "MIT"
+}
